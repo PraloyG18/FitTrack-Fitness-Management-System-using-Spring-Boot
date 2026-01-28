@@ -1,6 +1,6 @@
-# Fitness-Tracker-App-using-Java-and-SpringBoot
+# FitTrack – Fitness Management System using Spring Boot
 
-A Fitness Tracker Backend Application** built using Java + Spring Boot, following clean layered architecture:
+A Fitness Tracker Backend Application built using Java + Spring Boot, following clean layered architecture:
 Controller → Service → Repository, with JWT Authentication, Role-based access, and API documentation using Swagger.
 
 This project supports tracking fitness activities and generating workout recommendations.
